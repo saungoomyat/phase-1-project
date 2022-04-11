@@ -1,0 +1,292 @@
+{
+  "food": [
+    {
+      "name": "Egg McMuffin®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Egg-McMuffin-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "13g",
+      "Carbs": "30g",
+      "Protein": "17g",
+      "Calories": "310",
+      "id": 1
+    },
+    {
+      "name": "Bacon, Egg & Cheese Biscuit",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Bacon-Egg-Cheese-Biscuit-Regular-Size-Biscuit-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "26g",
+      "Carbs": "39g",
+      "Protein": "17g",
+      "Calories": "460",
+      "id": 2
+    },
+    {
+      "name": "Sausage McMuffin®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-McMuffin:product-header-mobile?wid=829&hei=476&dpr=off",
+      "Fat": "31g",
+      "Carbs": "30g",
+      "Protein": "20g",
+      "Calories": "480",
+      "id": 3
+    },
+    {
+      "name": "Sausage McMuffin® with Egg",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-McMuffin-with-Egg:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "26g",
+      "Carbs": "39g",
+      "Protein": "17g",
+      "Calories": "460",
+      "id": 4
+    },
+    {
+      "name": "Sausage Biscuit",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-Biscuit-Regular-Size-Biscuit-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "30g",
+      "Carbs": "36g",
+      "Protein": "11g",
+      "Calories": "460",
+      "id": 5
+    },
+    {
+      "name": "Sausage Biscuit with Egg",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-Biscuit-with-Egg-Regular-Size-Biscuit-1:product-header-mobile?wid=829&hei=476&dpr=off",
+      "Fat": "34g",
+      "Carbs": "38g",
+      "Protein": "17g",
+      "Calories": "530",
+      "id": 6
+    },
+    {
+      "name": "Bacon, Egg & Cheese McGriddles®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Bacon-Egg-Cheese-McGriddles:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "21g",
+      "Carbs": "44g",
+      "Protein": "17g",
+      "Calories": "430",
+      "id": 7
+    },
+    {
+      "name": "Sausage McGriddles®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-McGriddles:product-header-mobile?wid=829&hei=476&dpr=off",
+      "Fat": "24g",
+      "Carbs": "41g",
+      "Protein": "11g",
+      "Calories": "430",
+      "id": 8
+    },
+    {
+      "name": "Sausage, Egg & Cheese McGriddles®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-Egg-Cheese-McGriddles:product-header-mobile?wid=823&hei=472&dpr=off",
+      "Fat": "33g",
+      "Carbs": "44g",
+      "Protein": "19g",
+      "Calories": "550",
+      "id": 9
+    },
+    {
+      "name": "Big Breakfast®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/s-mcdonalds-Big-Breakfast-Regular-Size-Biscuit-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "48g",
+      "Carbs": "57g",
+      "Protein": "26g",
+      "Calories": "760",
+      "id": 10
+    },
+    {
+      "name": "Big Breakfast® with Hotcakes",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Big-Breakfast-with-Hotcakes-Regular-Size-Biscuit-1:product-header-mobile?wid=829&hei=476&dpr=off",
+      "Fat": "63g",
+      "Carbs": "158g",
+      "Protein": "36g",
+      "Calories": "1340",
+      "id": 11
+    },
+    {
+      "name": "Hotcakes",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Hotcakes:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "15g",
+      "Carbs": "101g",
+      "Protein": "9g",
+      "Calories": "580",
+      "id": 12
+    },
+    {
+      "name": "Hotcakes and Sausage",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Hotcakes-and-Sausage:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "33g",
+      "Carbs": "102g",
+      "Protein": "15g",
+      "Calories": "770",
+      "id": 13
+    },
+    {
+      "name": "Sausage Burrito",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-Burrito-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "17g",
+      "Carbs": "25g",
+      "Protein": "13g",
+      "Calories": "310",
+      "id": 14
+    },
+    {
+      "name": "Hash Browns",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-HASH-BROWNS-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "8g",
+      "Carbs": "18g",
+      "Protein": "2g",
+      "Calories": "140",
+      "id": 15
+    },
+    {
+      "name": "Fruit & Maple Oatmeal",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Fruit-Maple-Oatmeal-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "4.5g",
+      "Carbs": "64g",
+      "Protein": "6g",
+      "Calories": "320",
+      "id": 16
+    },
+    {
+      "name": "Big Mac®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Big-Mac-1:product-header-mobile?wid=830&hei=476&dpr=off",
+      "Fat": "30g",
+      "Carbs": "45g",
+      "Protein": "25g",
+      "Calories": "550",
+      "id": 17
+    },
+    {
+      "name": "Quarter Pounder®* with Cheese",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Quarter-Pounder-with-Cheese-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "26g",
+      "Carbs": "42g",
+      "Protein": "30g",
+      "Calories": "520",
+      "id": 18
+    },
+    {
+      "name": "Double Quarter Pounder®* with Cheese",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Double-Quarter-Pounder-with-Cheese-1:product-header-mobile?wid=829&hei=476&dpr=off",
+      "Fat": "42g",
+      "Carbs": "43g",
+      "Protein": "48g",
+      "Calories": "740",
+      "id": 19
+    },
+    {
+      "name": "Quarter Pounder®* with Cheese Deluxe",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-qpc-deluxe-burger:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "37g",
+      "Carbs": "44g",
+      "Protein": "30g",
+      "Calories": "630",
+      "id": 20
+    },
+    {
+      "name": "McDouble®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-McDouble-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "20g",
+      "Carbs": "33g",
+      "Protein": "22g",
+      "Calories": "400",
+      "id": 21
+    },
+    {
+      "name": "Quarter Pounder®* with Cheese Bacon",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-qpc-bacon:product-header-mobile?wid=829&hei=476&dpr=off",
+      "Fat": "35g",
+      "Carbs": "43g",
+      "Protein": "36g",
+      "Calories": "630",
+      "id": 22
+    },
+    {
+      "name": "Cheeseburger",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Cheeseburger-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "13g",
+      "Carbs": "32g",
+      "Protein": "15g",
+      "Calories": "300",
+      "id": 23
+    },
+    {
+      "name": "Double Cheeseburger",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Double-Cheeseburger-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "24g",
+      "Carbs": "34g",
+      "Protein": "25g",
+      "Calories": "450",
+      "id": 24
+    },
+    {
+      "name": "Hamburger",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Hamburger:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "9g",
+      "Carbs": "31g",
+      "Protein": "12g",
+      "Calories": "250",
+      "id": 25
+    },
+    {
+      "name": "Spicy Deluxe Crispy Chicken Sandwich",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-spicy-deluxe-crispy-chicken-sandwich:product-header-mobile?wid=829&hei=476&dpr=off",
+      "Fat": "26g",
+      "Carbs": "48g",
+      "Protein": "27g",
+      "Calories": "540",
+      "id": 26
+    },
+    {
+      "name": "Crispy Chicken Sandwich",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-crispy-chicken-sandwich:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "20g",
+      "Carbs": "45g",
+      "Protein": "27g",
+      "Calories": "470",
+      "id": 27
+    },
+    {
+      "name": "Spicy Crispy Chicken Sandwich",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-spicy-crispy-chicken-sandwich:product-header-mobile?product-header-desktop&wid=829&hei=478&dpr=off",
+      "Fat": "26g",
+      "Carbs": "47g",
+      "Protein": "27g",
+      "Calories": "530",
+      "id": 28
+    },
+    {
+      "name": "Deluxe Crispy Chicken Sandwich",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-deluxe-crispy-chicken-sandwich:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "26g",
+      "Carbs": "47g",
+      "Protein": "27g",
+      "Calories": "530",
+      "id": 29
+    },
+    {
+      "name": "McChicken®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-McChicken-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "21g",
+      "Carbs": "39g",
+      "Protein": "14g",
+      "Calories": "400",
+      "id": 30
+    },
+    {
+      "name": "Filet-O-Fish®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Filet-O-Fish-1:product-header-mobile?wid=829&hei=478&dpr=off",
+      "Fat": "18g",
+      "Carbs": "39g",
+      "Protein": "16g",
+      "Calories": "380",
+      "id": 31
+    },
+    {
+      "name": "McRib®",
+      "imageUrl": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-McRib-new:product-header-desktop?wid=829&hei=455&dpr=off",
+      "Fat": "28g",
+      "Carbs": "46g",
+      "Protein": "24g",
+      "Calories": "520",
+      "id": 32
+    }
+  ]
+}
